@@ -1,2 +1,2 @@
 # awsbatchtools
-provide R interface to run AWS batch jobs and process their results
+provides R interface to run AWS batch jobs and process their results

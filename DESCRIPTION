@@ -1,0 +1,12 @@
+Package: awsbatchtools
+Type: Package
+Title: Provides R interface to run AWS batch jobs and process the results
+Version: 0.0.1
+Date: 2022-11-03
+Authors@R: c(
+    person("Reinhold", "Koch", , "rei@reinholdkoch.com", role = c("aut", "cre")))
+Description: More about what it does (maybe more than one line)
+License: GPL2
+Imports: 
+    paws
+RoxygenNote: 7.2.1
